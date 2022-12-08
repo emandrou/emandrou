@@ -26,3 +26,10 @@
 <p align='center'>
     <img height="250" src="https://github.com/emandrou/emandrou/blob/main/SVG/Data%20Visualisation.png" />
 </p>
+
+<h1 align="left">Others</h1>
+
+<p align='center'>
+    <img height="100" src="https://github.com/emandrou/emandrou/blob/main/SVG/UML.png" />
+   <img height="100" src="https://github.com/emandrou/emandrou/blob/main/SVG/anaconda%20navigator.png" />
+  </p>
