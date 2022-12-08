@@ -1,16 +1,28 @@
-### Hi there 👋
+<h1 align="center">Hello hello 👋 Ebru's speaking</h1>
 
-<!--
-**emandrou/emandrou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">In here, you will find my projects as a Data Analyst!</h3>
 
-Here are some ideas to get you started:
+<h4 align="center">I am approachable through:</h4>
+<p align='center'>
+  <a href="https://www.linkedin.com/in/ebrumandrou-dataanalyst/"><img height="30" src="https://github.com/emandrou/emandrou/blob/main/SVG/linkedin.png"></a>&nbsp;&nbsp;
+  <a href="mailto:ebru.mandrou@gmail.com"><img height="30" src="https://github.com/emandrou/emandrou/blob/main/SVG/mail.PNG"></a>&nbsp;&nbsp;
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Some of the Tools I like to Use:</h3>
+<h1 align="left">Python & Python Libraries</h1>
+
+<p align='center'>
+    <img height="250" src="https://github.com/emandrou/emandrou/blob/main/SVG/python%20%26%20libraries.PNG" />
+</p>
+
+<h1 align="left">SQL & MySQL & Postgre SQL</h1>
+
+<p align='center'>
+    <img height="250" src="https://github.com/emandrou/emandrou/blob/main/SVG/SQL.PNG" />
+</p>
+
+<h1 align="left">Data Visualisation</h1>
+
+<p align='center'>
+    <img height="250" src="https://github.com/emandrou/emandrou/blob/main/SVG/Data%20Visualisation.png" />
+</p>
